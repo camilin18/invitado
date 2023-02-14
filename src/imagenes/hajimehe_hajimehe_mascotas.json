@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "62e4052a20f37b256f968564"
+  },
+  "nombre": "fifi",
+  "peso": 2,
+  "raza": "pomerania"
+},{
+  "_id": {
+    "$oid": "62e4054620f37b256f968565"
+  },
+  "nombre": "rufo",
+  "peso": 10,
+  "raza": "criollo"
+},{
+  "_id": {
+    "$oid": "62e4056f20f37b256f968566"
+  },
+  "nombre": "andy",
+  "peso": 4,
+  "raza": "Bulldog"
+}]
